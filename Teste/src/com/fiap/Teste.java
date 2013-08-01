@@ -2,7 +2,7 @@ package com.fiap;
 
 public class Teste {
 	public static void main(String[] args) {
-		System.out.println("tetse");
+		System.out.println("teste");
 
 	}
 }
